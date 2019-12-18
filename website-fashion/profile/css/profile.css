@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0 ;
+}
+
+.navbar-brand{
+    margin-left: 100px;
+}
+
+.nav-item{
+    margin-right: 50px;
+}
+
+.rightside p{
+    width: 500px;
+    margin-left: 70px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.rightside h1{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.rightside h5{
+    margin-left: 70px;
+}
+
+.profilerightside{
+    margin-top: -450px;
+    margin-left: 670px;
+}
+
+.leftside{
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-bottom: 700px;
+}
+
+.textleft{
+    margin-top: -950px;
+    margin-left: 650px;
+}
+
+.textleft p{
+    margin-top: 50px;
+}

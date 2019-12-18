@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    margin-left: 100px;
+}
+
+.nav-item{
+    margin-right: 50px;
+}
+    
+    *:focus {
+        outline: none;
+    }
+    body {
+    font-family: Arial;
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,204,233,1) 100%);
+    padding: 50px;
+    }
+    .contact {
+    margin: 20px auto;
+    width: 90%;
+    }
+    .contact-screen {
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 5px
+    }
+
+.contact-screen img{
+    margin-top: -270px;
+    margin-left: 30px;
+}
+    
+.app-title {
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 20px;
+    color: #000;
+    }
+
+.register-form {
+    text-align: center;
+    }
+.control-group {
+    margin-bottom: 10px;
+    }
+    
+.contact-input{
+    margin-top: 70px;
+}
+
+input {
+    text-align: center;
+    margin-left: 700px;
+    background-color: rgb(228, 224, 224);
+    border: 2px solid transparent;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    width: 250px;
+    transition: border .5s;
+    }
+
+.form-group textarea{
+    background-color: rgb(228, 224, 224);
+    width: 250px;
+    margin-left: 700px;
+    text-align: center;
+}
+
+.btn.btn-light{
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color: aliceblue;
+    border-radius: 15px 15px;
+    margin-left: 785px;
+    margin-top: 20px;
+}
